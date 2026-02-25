@@ -3,7 +3,7 @@ body{
     align-items: center;
     text-align: center;
     justify-content: center;
-    cursor: grab;
+    cursor: cursor;
 
 }
 
@@ -31,4 +31,5 @@ img{
     font-size: medium;
     height: 100px;
     width: 100px;
+
 }
